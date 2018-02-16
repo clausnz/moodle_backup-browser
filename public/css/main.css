@@ -1,0 +1,50 @@
+body {
+	padding-top: 20px;
+}
+p.heading {
+	font-size: 16px;
+}
+
+h2 span {
+	text-decoration: underline;
+	font-weight: bold;
+}
+.center {
+	text-align: center;
+}
+
+.table-category td, .table-start td {
+	cursor: pointer !important;
+}
+
+.glyphicon {
+	font-size: 16px;
+}
+
+.glyphicon-ok {
+	color: #11bd11;
+}
+.glyphicon-remove {
+	color: #a90d0d;
+}
+
+.align-right {
+	text-align: right;
+}
+
+thead th {
+	white-space: nowrap;
+}
+
+a span.text {
+	padding-top: 2px !important;
+	padding-bottom: 2px !important;
+}
+ul.dropdown-menu a {
+	padding-top: 7px !important;
+	padding-bottom: 7px !important;
+}
+
+iframe body > h1 {
+	display: none !important;
+}

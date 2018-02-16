@@ -1,0 +1,9 @@
+vendor
+.env
+.vagrant
+tests
+.DS_Store
+.idea
+storage
+shared/stat
+dbfiles
