@@ -20,13 +20,12 @@ Create following database dumps of your Moodle installation and move into direct
 
 ```
 mkdir {project_root}/dbfiles
-mv \
-mdl_course.sql \
-mdl_course_categories.sql \
-mdl_context.sql \
-mdl_role_assignments.sql \
-mdl_user.sql \
-{project_root}/dbfiles
+mv mdl_course.sql \
+   mdl_course_categories.sql \
+   mdl_context.sql \
+   mdl_role_assignments.sql \
+   mdl_user.sql \
+   {project_root}/dbfiles
 ```
 
 Run `vagrant up` to setup development system.
