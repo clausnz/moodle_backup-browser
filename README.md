@@ -25,7 +25,7 @@ mv mdl_course.sql \
    mdl_context.sql \
    mdl_role_assignments.sql \
    mdl_user.sql \
-   {project_root}/dbfiles
+   {project_root}/dbfiles/
 ```
 
 Run `vagrant up` to setup development system.
