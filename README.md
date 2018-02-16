@@ -29,4 +29,4 @@ mdl_user.sql \
 {project_root}/dbfiles
 ```
 
-Run Vagrant to setup development system.
+Run `vagrant up` to setup development system.
