@@ -12,4 +12,4 @@ This Backup Browser add-on for the open-source learning management system Moodle
 ### Requirements
 
 * PHP >= 5.5.9
-* Moodle 3.1.* (may work with older version)
+* Moodle >= 3.1 (may work with older version)
