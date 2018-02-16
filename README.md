@@ -1,6 +1,6 @@
 # Moodle Backup Browser
 
-This Backup Browser add-on for the open-source learning management system Moodle (https://moodle.org) allows tree-based browsing of the Moodle backup-files based on merging data from filesystem and database.
+This Backup Browser add-on for the open-source learning management system Moodle (https://moodle.org) allows tree-based browsing of the Moodle backup-files based by merging data from filesystem and database.
 
 ### Features:
 
