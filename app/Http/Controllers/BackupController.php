@@ -153,7 +153,7 @@ class BackupController extends Controller {
 
 		}
 
-		$fileSystemData = $this->getArrayfromCsv(base_path() . '/shared/stat');
+		$fileSystemData = $this->getArrayfromCsv($this->getCsv($backup));
 
 		$courseData = $this->mergeCourseData($courses, $fileSystemData);
 
